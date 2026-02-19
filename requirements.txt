@@ -1,0 +1,9 @@
+cdsapi
+pandas
+xarray
+rioxarray
+geopandas
+matplotlib
+shapely
+netCDF4
+tqdm
