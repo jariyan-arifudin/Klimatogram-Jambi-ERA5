@@ -1,0 +1,18 @@
+# Python & Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (JANGAN UPLOAD FILE BESAR)
+*.nc
+*.zip
+*.tif
+*.csv
+
+# Kredensial & API Keys
+.cdsapirc
+.env
+
+# Gambar Output
+*.png
+*.jpg
