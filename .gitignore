@@ -1,4 +1,4 @@
-# Python & Colab
+# Python & Colab Cache
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
@@ -8,11 +8,17 @@ __pycache__/
 *.zip
 *.tif
 *.csv
+*.xlsx
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
 
 # Kredensial & API Keys
 .cdsapirc
 .env
 
-# Gambar Output
+# Output Images
 *.png
 *.jpg
